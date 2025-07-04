@@ -11,7 +11,9 @@ namespace KN_3_test1
         static void Main(string[] args)
         {
             Console.WriteLine(8);
-            Console.WriteLine(10);
+            
+
+
         }
     }
 }

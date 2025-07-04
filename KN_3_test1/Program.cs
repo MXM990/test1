@@ -12,7 +12,7 @@ namespace KN_3_test1
         {
             Console.WriteLine(8);
             Console.WriteLine(10);
-            Console.WriteLine( 883);
+       
         }
     }
 }
